@@ -16,7 +16,7 @@ This project explores the core concepts of AWS Virtual Private Cloud (VPC) netwo
 - **Challenges**: No major issues; smooth execution.
 
 ## About the Author
-Kelly Nkwain,   
+Kelly Nkwain
 [NextWork Community](https://community.nextwork.org/)
 
 ## License
